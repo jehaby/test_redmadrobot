@@ -1,0 +1,31 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+.wrapper {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.wrapper2 {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.row {
+    padding-top: 10px;
+}
+
+h1 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+textarea {
+    resize: none;
+}
